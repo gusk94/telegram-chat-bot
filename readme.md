@@ -5,4 +5,4 @@
 
 ## * 스크린샷
 
-![1562919838338](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1562919838338.png)
+![1562919838338](C:\Users\student\Desktop\1562919838338.png)
