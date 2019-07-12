@@ -5,4 +5,5 @@
 
 ## * 스크린샷
 
-![1562919838338](C:\Users\student\Desktop\1562919838338.png)
+![screen](https://user-images.githubusercontent.com/52534963/61114953-5eaa1800-a4cc-11e9-840d-8f443e10b008.png)
+
